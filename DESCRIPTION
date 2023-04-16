@@ -1,10 +1,10 @@
 Package: OutlierGrubbs
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Removes outliers from dataset
 Version: 0.1.0
 Author: Mate Horvath
 Maintainer: Mate Horvath <matehorvath2002@gmail.com>
 Description: Removes all outliers from the dataset based on 0.05 significancy by Grubbs-test
-License: What license is it under?
-Encoding: GPL-3
+License: GPL-3
+Encoding: UTF-8
 LazyData: true
