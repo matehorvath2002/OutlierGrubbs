@@ -6,5 +6,5 @@ Author: Mate Horvath
 Maintainer: Mate Horvath <matehorvath2002@gmail.com>
 Description: Removes all outliers from the dataset based on 0.05 significancy by Grubbs-test
 License: What license is it under?
-Encoding: MIT license
+Encoding: GPL-3
 LazyData: true
